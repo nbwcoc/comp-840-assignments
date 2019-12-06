@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ooo="http://openoffice.org/2004/office" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2019-12-04T22:59:55.407611562</meta:creation-date><dc:date>2019-12-05T23:18:43.313582519</dc:date><meta:editing-duration>PT48M6S</meta:editing-duration><meta:editing-cycles>10</meta:editing-cycles><meta:generator>LibreOffice/6.3.2.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="7" meta:paragraph-count="33" meta:word-count="1547" meta:character-count="9997" meta:non-whitespace-character-count="8472"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">44873</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">65477</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">31328</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">17078</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">89306</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">44873</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">65476</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">76200</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">75</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">647462</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3726679</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Mangal1" svg:font-family="Mangal"/>
+  <style:font-face style:name="Roboto" svg:font-family="Roboto, &apos;Helvetica Neue&apos;, Arial, sans-serif"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Times New Roman1" svg:font-family="&apos;Times New Roman&apos;" style:font-adornments="Bold" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="MS Gothic" svg:font-family="&apos;MS Gothic&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="MS Mincho" svg:font-family="&apos;MS Mincho&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Mangal" svg:font-family="Mangal" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="MS Mincho" style:font-size-asian="10.5pt" style:language-asian="ja" style:country-asian="JP" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="MS Mincho" style:font-size-asian="10.5pt" style:language-asian="ja" style:country-asian="JP" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="MS Gothic" style:font-family-asian="&apos;MS Gothic&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Mangal" style:font-family-complex="Mangal" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" loext:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Mangal1" style:font-family-complex="Mangal"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Mangal1" style:font-family-complex="Mangal" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Mangal1" style:font-family-complex="Mangal"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Times New Roman1" fo:font-family="&apos;Times New Roman&apos;" style:font-style-name="Bold" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" fo:font-weight="normal" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Hanging_20_indent" style:display-name="Hanging indent" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-left="0.3937in" fo:margin-right="0in" fo:text-indent="-0.1965in" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="0in"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Header_20_and_20_Footer" style:display-name="Header and Footer" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.4626in" style:type="center"/>
+     <style:tab-stop style:position="6.9252in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Header" style:family="paragraph" style:parent-style-name="Header_20_and_20_Footer" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="3.4626in" style:type="center"/>
+     <style:tab-stop style:position="6.9252in" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Emphasis" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Header">
+   <style:text-properties officeooo:rsid="002c6809" officeooo:paragraph-rsid="002c6809"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Hanging_20_indent">
+   <style:text-properties style:font-name="Times New Roman"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Hanging_20_indent">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Hanging_20_indent">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#2e414f" style:font-name="Roboto" fo:font-size="10.5pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Hanging_20_indent">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#2e414f" style:font-name="Roboto" fo:font-size="10.5pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0033907d" officeooo:paragraph-rsid="0033907d"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Hanging_20_indent">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#2e414f" style:font-name="Roboto" fo:font-size="10.5pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="003713fd" officeooo:paragraph-rsid="003713fd"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Header">
+   <style:text-properties officeooo:rsid="002c6809" officeooo:paragraph-rsid="002c6809"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_1" style:list-style-name="">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="002f7345" officeooo:paragraph-rsid="002f7345" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="002f7345" officeooo:paragraph-rsid="002f7345" style:font-name-asian="MS Gothic" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-name-complex="Mangal" style:font-size-complex="12pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="002f7345" officeooo:paragraph-rsid="002f7345" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="000d1254" officeooo:paragraph-rsid="000d1254" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="0009e126" officeooo:paragraph-rsid="0009e126" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="0029bcd7"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" officeooo:paragraph-rsid="0029bcd7" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="0009e126"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="000c4702"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties officeooo:rsid="0013cf65"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties officeooo:rsid="001ad1d1"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="001bb994"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="0022441f"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="00283a94"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties officeooo:rsid="002b6c66"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002b6c66"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" style:use-window-font-color="true" fo:letter-spacing="normal" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002f7345"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="001d5035"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="00304788" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="003167a6" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="00324335" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="0033907d" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="000c4702" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="0035cc81" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="12pt" fo:letter-spacing="normal" fo:font-style="italic" fo:font-weight="normal" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="00353a1f" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="12pt" officeooo:rsid="0035cc81" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="0035cc81"/>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.2402in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.2in" fo:background-color="transparent" style:dynamic-spacing="false" draw:fill="none"/>
+   </style:header-style>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1">
+   <style:header>
+    <text:p text:style-name="P1">GAN<text:tab/><text:tab/><text:page-number text:select-page="current">7</text:page-number></text:p>
+   </style:header>
+   <loext:header-first>
+    <text:p text:style-name="P1">Running Title: GAN<text:tab/><text:tab/><text:page-number text:select-page="current">1</text:page-number></text:p>
+   </loext:header-first>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P13">GAN</text:p>
+   <text:p text:style-name="P13">Nicholas Klardie</text:p>
+   <text:p text:style-name="P13">University of New Hampshire</text:p>
+   <text:h text:style-name="P10" text:outline-level="1">Introduction</text:h>
+   <text:p text:style-name="P15"><text:tab/><text:span text:style-name="T1">A generative adversarial network (GAN) is a relatively new class of machine learning system which seeks the generation of new content rather than the classification of existing content. The network itself is made up of two networks, a generator and a classifier, operating in competition, with the generator trying to create output which the classifier misclassifies as genuine. Unlike the models we have learned so far, the goal of a GAN is not to learn classifications from its input data, but to learn to mimic the data accurately enough to fool the classifier, and hopefully a human. (Goodfellow, et al, 2014)</text:span></text:p>
+   <text:p text:style-name="P15"><text:tab/><text:span text:style-name="T2">These networks, along with those with similar capabilities, have found several uses, ranging from image upscaling, (Ledig, et al, 2016) to the production of photorealistic images. (Karras, Laine and Aila, 2018) In addition, the dual-network architecture has been exploited in order to train more accurate classifier networks in situations where the amount of input data available is limited. (Ahsan, Sun and Essa, 2018) The photorealistic images produced by GANs and similar deep learning architectures have become so accurate as to be targeted by lawmakers. (H.R. 3230, 2019)</text:span></text:p>
+   <text:h text:style-name="P9" text:outline-level="1">Milestones and Exemplary Work</text:h>
+   <text:p text:style-name="P15"><text:tab/><text:span text:style-name="T4">The original proof of concept for the GAN came from Goodfellow et al, in a paper in which a network was demonstrated which is both able to generate accurate enough images and avoid the issues inherent in other comparable techniques. Unfortunately, the GAN is susceptible to what Goodfellow termed the “Helvetica problem”, where the networks are trained out of sync, and as a result the whole process fails. Proof of concept images were generated from the MNIST, TFD and CIFAR-10 datasets, and shows acceptable realism. The simple model, two three layer deep perceptrons shows the amount of promise this technique had, given the generated images. The door was left open for further improvement, and several areas of focus were suggested. (Goodfellow, 2014)</text:span></text:p>
+   <text:p text:style-name="P15"><text:tab/><text:span text:style-name="T5">Goodfellow’s GAN would soon be improved to consume labels, and therefore be able to filter the output. This new GAN is the Conditional GAN, or CGAN. The primary difference between the GAN and the CGAN is the presence of labels, without which resulting is seemingly random output. The CGAN was also tested on MNIST data, and was able to produce satisfactory output, but it was also tested on data from the YFCC100 dataset, and was successfully able to predict human-looking tags for a given image. (Mirsa and Osindero, 2014)</text:span></text:p>
+   <text:p text:style-name="P15"><text:tab/><text:span text:style-name="T12">Because two models are trained, the overall goal of the system does not have to be the generation of images. Rather, at the end of the training process, the discriminator can be used as a pre-trained model for further tuning. This is particularly useful in situations where input data is scarce. When used in this way, the GAN’s training process is used as a semi-supervised process. There has been success using GANs in this was using a variant known as the Deep Convolutional GAN, or DCGAN. (Ahsan, Sun and Essa, 2018) DCGANs were originally introduced with this purpose in mind, with the goal of finding a network which is as flexible and accurate as a convolutional neural network, or CNN, and as flexible as a GAN. (Radford, Metz and Chintala, 2015) DCGANs have been shown to produce suitable models for further refinement. (Ahsan, Sun and Essa, 2018)</text:span></text:p>
+   <text:p text:style-name="P16"><text:span text:style-name="T6"><text:tab/>In 2018, researchers at NVIDIA released a state-of-the-art architecture known as StyleGAN which extends existing GANs by making large changes to the overall architecture, and borrowing ideas from other models. While the generator in a typical GAN is a single relatively simple network, the StyleGAN splits it further into a mapping network, which preprocesses the input data, and a synthesis network, which does the actual generation. The mapping network is relatively simple, being a regular multi-layer perceptron, however the synthesizer adds complexity by adding style data from the mapping network at several stages, along with random noise. The addition of noise at several stages in the training process allows for fine details in the output image which make it look more realistic compared to previous models. The “style” data is an adaptation of previous work to apply an artistic style to real photographs in order to make them look as though they were either made without photography, or as if they were retouched in photo-editing software, known as “style transfer”. (Karras, Laine and Aila, 2018) (Huang and Belongie, 2017) The network is further augmented with the application of a technique named “style mixing”, where a limited subset of style data from two different generated images is combined, in effect augmenting the input data as the model is being </text:span><text:soft-page-break/><text:span text:style-name="T6">trained. While the actual amount of data mixed is relatively small, the differences are significant enough that the generated images are not recognizable between eachother. StyleGAN is described as being superior to traditional GANs in every way. (Karras, Laine and Aila, 2018)</text:span></text:p>
+   <text:h text:style-name="P8" text:outline-level="1"/>
+   <text:h text:style-name="P10" text:outline-level="1">Applications</text:h>
+   <text:p text:style-name="P16"><text:span text:style-name="T7"><text:tab/>As the state-of-the-art for GANs and similar networks, such as autoencoders, has grown, they have found extensive use in several areas, which previously were either not possible, computationally expensive, or intensely flawed. Image upscaling on many classes of raster images using state-of-the-art traditional non deep learning algorithms yields a version of the original image which is satisfactory, but degraded. By comparison, methods using CNNs exhibit a great improvement of quality over traditional algorithms, and advanced GANs have been shown to produce results comparable to or better than CNNs. Particularly with the proliferation smartphones as the typical consumer’s personal camera, image upscaling is an important tool to increase the quality of images which were taken either at a far distance from their subject, or at a low optical zoom level. Accordingly, there is a high demand for accurate and realistic digital zooming techniques. (Guan, Pan, Li and Yu, 2019)</text:span></text:p>
+   <text:p text:style-name="P16"><text:span text:style-name="T8"><text:tab/>Since the publication of the paper on the original paper on DCGANs, there has been a very large number of papers published on the application of them to semi-supervised learning to tackle the problem of small datasets. These are used on a wide variety of applications, including but not limited to wildfire detection, (Aslan, </text:span><text:span text:style-name="T10">Güdükbay, Töreyin </text:span><text:span text:style-name="T11">and</text:span><text:span text:style-name="T10"> Çetin, </text:span><text:span text:style-name="T11">2019</text:span><text:span text:style-name="T8">) ichthyoplankton classification, (Aljaafari, 2018) pedestrian detection, (Huang and Ramanan, 2017) and cancer research. (Rubin, et al, 2018) These are all situations where coming across a dataset of the size required to properly train a traditional learning system is either difficult, expensive, or both, and generally take similar approaches.</text:span></text:p>
+   <text:p text:style-name="P14"><text:span text:style-name="T13"><text:tab/></text:span><text:span text:style-name="T14">Clearly there are no end to the uses of GANs for toy uses, utilities and for the betterment of science and mankind, </text:span><text:span text:style-name="T15">but only because of the accuracy of these models and the utility of faked data. The same techniques can be used as tools for criminals and other bad actors. While there are surely applications for the unscrupulous in check and wire fraud, phone scams, and other criminal activity that depends on subterfuge and is countered by recognizing the fake situation, </text:span><text:span text:style-name="T17">and those are likely being exploited by some enterprising criminals</text:span><text:span text:style-name="T15">, most of the attention is currently focused on </text:span><text:span text:style-name="T16">generated depictions of real people. While these depictions have drawn the eye of lawmakers, with bills introduced in state legislatures and in Congress, </text:span><text:span text:style-name="T17">some successfully,</text:span><text:span text:style-name="T16"> (</text:span><text:span text:style-name="T18">H.R. 3230, 2019</text:span><text:span text:style-name="T16">) </text:span><text:span text:style-name="T17">(CA A.B. 602, 2019) </text:span><text:span text:style-name="T19">whether or not they can survive a First Amendment test has yet to be seen. (Dold, 2019)</text:span></text:p>
+   <text:h text:style-name="P11" text:outline-level="1">Bibliography</text:h>
+   <text:p text:style-name="P3">Goodfellow, <text:span text:style-name="T25">I.</text:span>, Pouget-Abadie, <text:span text:style-name="T25">J.</text:span>, Mirza, <text:span text:style-name="T25">M.</text:span>, Xu, <text:span text:style-name="T25">B.</text:span>, Warde-Farley, <text:span text:style-name="T25">D.</text:span>, Ozair, <text:span text:style-name="T25">S.</text:span>, Courville, <text:span text:style-name="T25">A.</text:span>, &amp; Bengio, <text:span text:style-name="T25">Y.</text:span> (2014). Generative Adversarial Networks.</text:p>
+   <text:p text:style-name="P3">Ledig, <text:span text:style-name="T25">C.</text:span>, Theis, <text:span text:style-name="T25">L.</text:span>, Huszar, <text:span text:style-name="T25">F.</text:span>, Caballero, <text:span text:style-name="T25">J.</text:span>, Cunningham, <text:span text:style-name="T25">A.</text:span>, Acosta, <text:span text:style-name="T25">A.</text:span>, Aitken, <text:span text:style-name="T25">A.</text:span>, Tejani, <text:span text:style-name="T25">A.</text:span>, Totz, <text:span text:style-name="T25">J.</text:span>, Wang, <text:span text:style-name="T25">Z.</text:span>, &amp; Shi, <text:span text:style-name="T25">W</text:span>. (2016). Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network.</text:p>
+   <text:p text:style-name="Hanging_20_indent"><text:span text:style-name="T13">Karras, </text:span><text:span text:style-name="T19">T.</text:span><text:span text:style-name="T13">, Laine, </text:span><text:span text:style-name="T19">S.</text:span><text:span text:style-name="T13">, &amp; Aila, </text:span><text:span text:style-name="T19">T</text:span><text:span text:style-name="T13">. (2018). A Style-Based Generator Architecture for Generative Adversarial Networks.</text:span></text:p>
+   <text:p text:style-name="P3">Defending Each and Every Person from False Appearances by Keeping Exploitation Subject to Accountability Act of 2019, <text:span text:style-name="T3">H.R. 3230, 116th Cong. (2019).</text:span></text:p>
+   <text:p text:style-name="P3">Mirza, <text:span text:style-name="T25">M.</text:span>, &amp; Osindero, <text:span text:style-name="T25">S</text:span>. (2014). Conditional Generative Adversarial Nets.</text:p>
+   <text:p text:style-name="P3">Ahsan, <text:span text:style-name="T25">U.</text:span>, Sun, <text:span text:style-name="T25">C.</text:span>, &amp; Essa, <text:span text:style-name="T25">I.</text:span>. (2018). DiscrimNet: Semi-Supervised Action Recognition from Videos using Generative Adversarial Networks.</text:p>
+   <text:p text:style-name="P3">Radford, <text:span text:style-name="T25">A.</text:span>, Metz, <text:span text:style-name="T25">L.</text:span>, &amp; Chintala, <text:span text:style-name="T25">S.</text:span>. (2015). Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks.</text:p>
+   <text:p text:style-name="P3">Huang, <text:span text:style-name="T25">X.</text:span>, &amp; Belongie, <text:span text:style-name="T25">S.</text:span>. (2017). Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization.</text:p>
+   <text:p text:style-name="P3">Guan, <text:span text:style-name="T25">J.</text:span>, Pan, <text:span text:style-name="T25">C.</text:span>, Li, <text:span text:style-name="T25">S.</text:span>, &amp; Yu, <text:span text:style-name="T25">D.</text:span>. (2019). SRDGAN: learning the noise prior for Super Resolution with Dual Generative Adversarial Networks.</text:p>
+   <text:p text:style-name="P2"><text:span text:style-name="T9">Aslan, S., Güdükbay, U., Töreyin, B.U., &amp; Çetin, A.E. (2019). Early Wildfire Smoke Detection Based on Motion-based Geometric Image Transformation and Deep Convolutional Generative Adversarial Networks. </text:span><text:span text:style-name="Emphasis"><text:span text:style-name="T20">ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</text:span></text:span><text:span text:style-name="T9">, 8315-8319.</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T21">Aljaafari, N. (2018). Ichthyoplankton Classification Tool using Generative Adversarial Networks and Transfer Learning.</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T21">Huang, </text:span><text:span text:style-name="T23">S.</text:span><text:span text:style-name="T21">, &amp; Ramanan, </text:span><text:span text:style-name="T23">D. </text:span><text:span text:style-name="T21">(2017). Recognition in-the-Tail: Training Detectors for Unusual Pedestrians with Synthetic ImpostersArXiv, abs/1703.06283.</text:span></text:p>
+   <text:p text:style-name="P4"><text:span text:style-name="T21">Rubin, </text:span><text:span text:style-name="T23">M.</text:span><text:span text:style-name="T21">, Stein, </text:span><text:span text:style-name="T23">O.</text:span><text:span text:style-name="T21">, Turko, </text:span><text:span text:style-name="T23">N.</text:span><text:span text:style-name="T21">, Nygate, </text:span><text:span text:style-name="T23">Y.</text:span><text:span text:style-name="T21">, Roitshtain, </text:span><text:span text:style-name="T23">D.</text:span><text:span text:style-name="T21">, Karako, </text:span><text:span text:style-name="T23">L.</text:span><text:span text:style-name="T21">, Barnea, </text:span><text:span text:style-name="T23">I.</text:span><text:span text:style-name="T21">, Giryes, </text:span><text:span text:style-name="T23">R.</text:span><text:span text:style-name="T21">, &amp; Shaked, </text:span><text:span text:style-name="T23">N.</text:span><text:span text:style-name="T21">. (2018). TOP-GAN: Label-Free Cancer Cell Classification Using Deep Learning with a Small Training Set.</text:span></text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T21">Depiction of individual using digital or electronic technology: sexually explicit material: cause of action, </text:span><text:span text:style-name="T22">A.B. 602, Calif. State Legis. 2019-2020 session. (2019).</text:span></text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/><text:span text:style-name="T22">D</text:span><text:span text:style-name="T21">old, K. (2019). Face-Swapping Porn: How a Creepy Internet Trend Could Threaten Democracy. </text:span><text:span text:style-name="T24">The Rolling Stone.</text:span></text:p>
+  </office:text>
+ </office:body>
+</office:document>
