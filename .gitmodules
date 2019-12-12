@@ -1,0 +1,3 @@
+[submodule "group project"]
+	path = group project
+	url = git@github.com:drc1313/ML_Project.git
